@@ -1,0 +1,19 @@
+-------------DOCUMENTARIO------------------------
+#PRIMEIROS PASSOS
+1- CRIAR UM AMBIENTE VIRTUAL
+    C- python -m venv .venv
+2- ATIVAR O AMBIENTE
+    C- .venv\Scripts\activate
+3- INSTALAR AS TECNOLOGIAS QUE SERAO USADAS
+    BACK-END: FASTAPI,UVICORN,pydantic,sqlalchemy
+
+
+##PRIMEIROS CODIGOS
+Comecei importanto o fastapi para a main e depois criei as rotas da api 
+uma roda de autenticação e outra de pedidos, na de pedidos foram feita as rotas onde o usuario ira criar e visualizar as tabelas de 
+despesas e ganhos e os saldos, depois foram cirado os modelos de entradad de dados e o banco de dados
+
+
+### proximas metas
+- criar as funçoçes das rotas
+- relacionar o banco de dados com as entradas
