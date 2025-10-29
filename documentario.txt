@@ -17,3 +17,6 @@ despesas e ganhos e os saldos, depois foram cirado os modelos de entradad de dad
 ### proximas metas
 - criar as funçoçes das rotas
 - relacionar o banco de dados com as entradas
+
+## Segundo dia :
+Foram realizada as metas do dia de criar as funçoes das rotas e o banco de dados ja esta armazendando e validando as informaçoes 

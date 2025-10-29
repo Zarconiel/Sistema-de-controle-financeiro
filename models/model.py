@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine, Column, Integer, String, Float, Date
 from datetime import date
 from uuid import uuid4
-from database import Base
+from database.db import Base
 
 
 
